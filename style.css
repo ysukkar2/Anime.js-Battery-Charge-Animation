@@ -1,0 +1,21 @@
+.segment {
+    width: 0px;
+    height: 25px;
+    background-color: lime;
+    float: left;
+  }
+  
+  #body {
+    width: 60px;
+    height: 25px;
+    border: solid grey 5px;
+    float: left;
+  }
+  
+  #head {
+    width: 5px;
+    height: 15px;
+    margin-top: 10px;
+    background-color: grey;
+    float: left;
+  }
